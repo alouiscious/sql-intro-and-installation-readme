@@ -4,7 +4,7 @@
 
 We'll get started with SQL by installing and trying out SQLite.
 
-## Objectives
+## Objectives Now
 
 1. Check to see if SQLite is installed on your computer via a terminal command
 2. Install SQLite on your computer
